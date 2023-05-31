@@ -22,8 +22,6 @@ A very simple React App with a Card UI. Each Card is a unique robofriend. You ca
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Tachyons](https://tachyons.io/)
 
-[Back To The Top](#read-me-template)
-
 ---
 
 ## How To Use
@@ -39,5 +37,5 @@ A very simple React App with a Card UI. Each Card is a unique robofriend. You ca
 
 ## Author Info
 
-- GitHub - [IITheGameII]([https://twitter.com/jamesqquick](https://github.com/IITheGameII))
-- LinkedIN - Dominik Halić](https://www.linkedin.com/in/dominik-hali%C4%87-55a922220/)
+- GitHub - [IITheGameII](https://github.com/IITheGameII)
+- LinkedIN - [Dominik Halić](https://www.linkedin.com/in/dominik-hali%C4%87-55a922220/)
