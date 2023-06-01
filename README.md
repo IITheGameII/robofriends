@@ -8,6 +8,7 @@
 
 - [Description](#description)
 - [How To Use](#how-to-use)
+- [References](#references)
 - [Author Info](#author-info)
 
 ---
@@ -32,8 +33,11 @@ A very simple React App with a Card UI. Each Card is a unique robofriend. You ca
 5. Run `npm start`
 6. open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
----
+## References
 
+This project was created with the help and mentornship of Andrei Neagoie, Founder of zerotomastery.io and his course, "The Complete Web Developer in 2023: Zero to Mastery". 
+
+---
 
 ## Author Info
 
