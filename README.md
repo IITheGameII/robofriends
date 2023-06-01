@@ -28,7 +28,7 @@ A very simple React App with a Card UI. Each Card is a unique robofriend. You ca
 ## How To Use
 
 1. Clone this repo
-2. Change your directory : `cd robo-friends`
+2. Change your directory : `cd robofriends`
 3. Run `npm install`
 5. Run `npm start`
 6. open [http://localhost:3000](http://localhost:3000) to view it in the browser.
